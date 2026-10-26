@@ -1,1 +1,26 @@
 This is not an example file
+Personal details
+- Birthday: December 6, 2001
+- You turned 24 in December 2025 and will turn 25 in December 2026.
+- You're based in Bengaluru, India.
+
+Your career
+- You have a B.Tech in Information Technology, with approximately an 8.1 CGPA.
+- You have around 2.9 years of experience in manual software testing.
+- Your experience includes retirement services and Defined Contribution (DC) 401(k) systems.
+- You've worked at Wipro and later moved to Sutherland.
+
+What you're learning now
+
+You're building your technical foundation for a stronger IT career. We've discussed:
+- Git and GitHub — branches, commits, pull requests, merging and remotes.
+- Linux and Ubuntu — commands, files, directories and permissions.
+- Networking — IP addresses, subnetting, DNS, HTTP/HTTPS, TCP and UDP.
+- DevOps fundamentals and command-line practice.
+- Java programming, SQL, API testing and automation testing.
+
+Your ambitions
+- You want to build an international career and potentially settle abroad.
+- Germany and Austria have been important options in your plans.
+- You've explored master's degrees in Europe, especially with a limited budget of around ₹10 lakh.
+- You're also interested in Business Analysis, AI Product Analyst roles and Product Management.
